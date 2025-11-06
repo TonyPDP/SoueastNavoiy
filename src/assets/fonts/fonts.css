@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Hanson';
+  src: url('./Hanson-Bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+.font-hanson {
+  font-family: 'Hanson', sans-serif;
+}
+@font-face {
+  font-family: 'Anton';
+  src: url('./Anton-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+.font-anton { 
+  font-family: 'Anton', sans-serif;
+}

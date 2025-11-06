@@ -1,0 +1,63 @@
+{
+  "aboutUs": {
+    "titlePart1": "Souest",
+    "titlePart2": "Cars",
+    "subtitle": "Bizning yo'limiz, merosimiz va kelajakdagi rejalarimiz haqida ko'proq bilib oling. Biz innovatsiya va sifatni haydovchilar uchun ishtiyoq bilan rivojlantiramiz.",
+    "cta": "Aloqa",
+    "scrollPrompt": "Pastga aylantiring",
+    
+    "stats": {
+      "stat1": {
+        "value": "28+",
+        "label": "Yillik Tajriba"
+      },
+      "stat2": {
+        "value": "500K+",
+        "label": "Mamnun Mijozlar"
+      },
+      "stat3": {
+        "value": "50+",
+        "label": "Mamlakatlar"
+      },
+      "stat4": {
+        "value": "100+",
+        "label": "Mukofotlar"
+      }
+    },
+    
+    "section1": {
+      "subtitle": "Biz haqimizda",
+      "title": "Souest - Avtomobil Sanoatining Yetakchisi",
+      "text": "Soueast - Xitoyning avtomobil ishlab chiqaruvchi kompaniyasi bo'lib, u 1995-yilda tashkil etilgan. Dastlab, u China Motor Corporation va Fujian Motor Industry Group kompaniyalari o'rtasidagi qo'shma korxona sifatida boshlangan. Keyinchalik 2006-yilda Mitsubishi Motors hamkorlikka qo'shildi. 2021-yilda Mitsubishi kompaniyasi Soueast dan chiqib ketdi va hozirda Chery kompaniyasi tomonidan sotib olingan va Jetour brendi ostida avtomobillar ishlab chiqaradi."
+    },
+    
+    "section2": {
+      "subtitle": "Tarix",
+      "title": "Bizning Innovatsion Yo'limiz",
+      "text": "1995-yilda tashkil etilgan. 2006-yilda Mitsubishi Motors bilan hamkorlik boshlandi. 2021-yilda Mitsubishi kompaniyasi Soueast dan chiqib ketdi. 2024-yilda Chery tomonidan sotib olindi va Jetour brendi ostida avtomobillar ishlab chiqaradi.",
+      "listItem1": "1995 - Kompaniya asos solingan",
+      "listItem2": "2006 - Mitsubishi bilan hamkorlik",
+      "listItem3": "2024 - Yangi bosqich: Jetour brendi"
+    },
+    
+    "section3": {
+      "subtitle": "Mahsulotlar",
+      "title": "Bizning Avtomobil Qatorimiz",
+      "text": "Kompaniya turli xil avtomobillar, jumladan, yo'ltanlamaslar va sedandan iborat bir qator modellar ishlab chiqardi. Masalan, Soueast S07 va S09 modellari rusumidagi avtomobillar mavjud.",
+      "feature1": "Zamonaviy dizayn",
+      "feature2": "Qulay interyer",
+      "feature3": "Yuqori texnologiyalar",
+      "feature4": "Iqtisodiy iste'mol"
+    },
+    
+    "section4": {
+      "subtitle": "Kelajak",
+      "title": "Yangi Bosqich",
+      "text": "Avtomobillarimiz ko'rgazma mobaynida asosiy diqqat markaziga aylandi! O'zbekiston bozoridagi yangi brend — SOUEAST. Nafis dizayn va ilg'or texnologiyalar barchasi avtomobillarimizda mujassam. Ko'rgazmaning ilk kunidan tortib, har bir kichik tafsilotgacha hammasi 'Ease Your Life' haqida.",
+      "contactTitle": "Biz bilan bog'laning"
+    },
+    
+    "learnMore": "Ko'proq biling",
+    "contactUs": "Bog'lanish"
+  }
+}

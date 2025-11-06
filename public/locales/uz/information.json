@@ -1,0 +1,118 @@
+{
+  "information": {
+    "panels": [
+      {
+        "header": "ASOSIY TEXNIK XUSUSIYATLAR",
+        "items": [
+          "Uzunlik x Kenglik x Balandlik (mm)",
+          "G'ildirak bazasi",
+          "Maksimal quvvat (kVt)",
+          "Maksimal aylanish momenti (N·m)",
+          "Transmissiya turi",
+          "Tormoz turi",
+          "Parkovka tormoz turi",
+          "Shinalar xususiyatlari",
+          "Elektron bagaj"
+        ]
+      },
+      {
+        "header": "Ichki qism",
+        "items": [
+          "Havfsizlik yostiqchalari",
+          "Aqlli kalit",
+          "Kalitsiz kirish/ishga tushirish",
+          "Elektron barqarorlashtirish dasturi",
+          "Tushish yordam tizimi",
+          "Ag'darilishning oldini olish tizimi",
+          "Teri rul",
+          "Rulning to'rt tomonlama sozlanishi",
+          "Rul'ni isitish tizimi",
+          "Old/Orqa radar",
+          "10,25” LCD ekran + 15,6” markaziy boshqaruv ekrani",
+          "Salomlashish effektli tashqi qadamdek bezak (old/orqa)",
+          "Eshikni ochganda yoritilgan logo (old/orqa)",
+          "Kapot uchun gidravlik tayoq va himoya qoplamasi"
+        ]
+      },
+      {
+        "header": "Qulay",
+        "items": [
+          "O'rindiq materiali (old)",
+          "Premium bosh suyagich yostiqlar",
+          "Haydovchi o'rindig'ini elektr sozlash",
+          "Old o'rindiqlarni isitish tizimi",
+          "Old o'rindiqlarning ventilyatsiyasi",
+          "Ikkinchi qatordagi orqa qismi sozlanadi",
+          "Sovutish tizimli bar qutisi",
+          "CN95",
+          "PM2.5",
+          "Anionlar bilan havo tozalash tizimi",
+          "Elektr konditsioneri",
+          "Avtomatik konditsioner",
+          "Orqa qatoridagi zaryadlash porti"
+        ]
+      },
+      {
+        "header": "Multimedia tizimi",
+        "items": [
+          "Carplay",
+          "Android Auto",
+          "Dinamiklar soni (Sony)",
+          "Interaktiv ovozli boshqaruv tizimi",
+          "Masofadan boshqarish",
+          "Simsiz quvvatlash (50Vt)"
+        ]
+      },
+      {
+        "header": "Yoritish tizimi",
+        "items": [
+          "Matritsali LED faralar",
+          "Kunduzgi yurish chiroqlari",
+          "Old panjaradagi U-shaklli kunduzgi yoritish chiroqlari",
+          "Faralarning avtomatik yoqilishi",
+          "Monoxrom yoritish",
+          "LED orqa faralar",
+          "Dinamika yo'nalish ko'rsatkichi"
+        ]
+      },
+      {
+        "header": "Orqa ko'rish ko'zgulari",
+        "items": [
+          "Avtomatik yopilish funksiyali oynalar",
+          "Issiq yon ko'zg'ular",
+          "Orqa ko'zg'uni elektr orqali sozlash",
+          "Ikki segmentli yon ko'zg'ular"
+        ]
+      },
+      {
+        "header": "Xavfsizlik tizimlari",
+        "items": [
+          "Ko‘rinmas zona monitoring tizimi (BSD)",
+          "Yo'lakni o‘zgartirish yordam tizimi (LCA)",
+          "Eshik ochishdan ogohlantirish (DOW)",
+          "Orqadan oʻzaro toʻqnashuv haqida ogohlantirish (RCTA)",
+          "Orqadan to‘qnashuvni ogohlantirish funksiyasi (RCW)"
+        ]
+      },
+      {
+        "header": "Isitish tizimlari",
+        "items": [
+          "Old o'rindiqlarda isitish tizimi",
+          "Ikkinchi qatordagi o'rindiqlarni isitish tizimi",
+          "Rul'ni isitish tizimi",
+          "Old oynani isitish tizimi",
+          "Old purkagichlarni isitish"
+        ]
+      }
+    ],
+    "models": {
+      "model1": "2.0T-7DCT (Premium)",
+      "model2": "1.6T-7DCT (Komfort)"
+    },
+    "features": {
+      "leather": "Teri",
+      "artificialLeather": "Sun'iy teri",
+      "6way": "6 tomonlama"
+    }
+  }
+}

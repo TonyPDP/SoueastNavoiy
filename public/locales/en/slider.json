@@ -1,0 +1,24 @@
+{
+  "slider": {
+    "header": "ALL MODELS",
+    "discoverLink": "Discover All Models",
+    "cars": {
+      "S07": {
+        "slogan": "Feel the Freedom",
+        "colors": [
+          { "name": "White" },
+          { "name": "Grey" },
+          { "name": "Blue" }
+        ]
+      },
+      "S09": {
+        "slogan": "Next Generation Quality",
+        "colors": [
+          { "name": "White" },
+          { "name": "Grey" },
+          { "name": "Blue" }
+        ]
+      }
+    }
+  }
+}

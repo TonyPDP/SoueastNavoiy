@@ -1,0 +1,238 @@
+{
+  "s07": {
+    "section1": {
+      "subtitle": "Beauty",
+      "title1": "Emotion",
+      "title2": "Quality and Comfort",
+      "video": "/public/S07 CG SALING POINT 4K 30S.mp4"
+    },
+    "section2": {
+      "features1": [
+        {
+          "title": "Crystal Radiator Grille",
+          "description": "Bold styling that breaks traditional car design boundaries.",
+          "image": "/ImgSlide/1.webp"
+        },
+        {
+          "title": "LED Front and Rear Lighting Strips",
+          "description": "Signature grille combining function with flair.",
+          "image": "/ImgSlide/2.webp"
+        },
+        {
+          "title": "20-Inch Wheel Rims",
+          "description": "Programmable front lights, casting beams of aspirations.",
+          "image": "/ImgSlide/3.webp"
+        },
+        {
+          "title": "Panoramic Roof",
+          "description": "Let the sky in with a one-touch panoramic experience.",
+          "image": "/ImgSlide/4.webp"
+        },
+        {
+          "title": "Glossy and Greeting Lights",
+          "description": "Spacious interior for comfort and excitement.",
+          "image": "/ImgSlide/5.webp"
+        }
+      ]
+    },
+    "section3": {
+      "subtitle": "Quality",
+      "title1": "Quality",
+      "title2": "Redefines Comfort",
+      "backgroundImage": "/public/ImgSlide/S07/background.webp"
+    },
+    "section4": {
+      "features2": [
+        {
+          "title": "Spacious Interior",
+          "description": "With a 2720 mm wheelbase, the vehicle impresses with its size and offers an exceptional driving experience.",
+          "image": "/public/ImgSlide/S07/1.webp"
+        },
+        {
+          "title": "12.3-Inch Central Control Panel",
+          "description": "A driver-oriented high-tech control panel with enhanced visibility and advanced technologies.",
+          "image": "/public/ImgSlide/S07/2.webp"
+        },
+        {
+          "title": "Ambient Lighting",
+          "description": "A 6-color interior lighting system creates a unique atmosphere. The upper console lighting illuminates the storage area, while the lower lighting for the second row facilitates entry and exit.",
+          "image": "/public/ImgSlide/S07/3.webp"
+        },
+        {
+          "title": "Multifunctional Seat",
+          "description": "Inspired by details for mobility. The driver’s seat offers 6-way adjustments for maximum comfort.",
+          "image": "/public/ImgSlide/S07/4.webp"
+        }
+      ]
+    },
+    "section5": {
+      "features5": [
+        {
+          "title": "Dual-Zone Voice Control",
+          "description": "The S07 understands every word. Supports English, Arabic, Spanish, Russian, Portuguese, and other languages, enabling precise command recognition in driver and passenger zones.",
+          "image": "/ImgSlide/S5 (1).webp"
+        },
+        {
+          "title": "8 Sony Speakers with Superior Sound",
+          "description": "Equipped with 8 high-quality Sony speakers, the vehicle transforms into a true home theater.",
+          "image": "/ImgSlide/S5 (2).webp"
+        },
+        {
+          "title": "3-Zone Climate Control",
+          "description": "Adjust each seat to a comfortable temperature. Standard climate control buttons for driver and passenger, with a touchscreen for rear seat climate adjustments.",
+          "image": "/ImgSlide/S5 (3).webp"
+        },
+        {
+          "title": "Wireless Charging",
+          "description": "Charge your phone quickly without cables for added convenience.",
+          "image": "/ImgSlide/S5 (4).webp"
+        }
+      ]
+    },
+    "section6": {
+      "airPurifierTitle": "Crystal Gear Shift Lever",
+      "airPurifierTitle2": "Premium-Class Interior",
+      "airPurifierDescription": "The gear shift lever shines like a diamond, reflecting urban style.",
+      "airPurifierDescription2": "Pleasant-to-touch materials, extended seats in both front and rear rows, and elegant stitching express refined taste. Soft surfaces covering 85% of the interior welcome you with every touch.",
+      "airPurifierImage": "/public/ImgSlide/S07/21.webp",
+      "airPurifierImage2": "/public/ImgSlide/S07/22.webp"
+    },
+    "section7": {
+      "subtitle": "Technological Feature",
+      "title1": "Performance",
+      "title2": "Feel the Dream with Us",
+      "performanceImage": "/public/ImgSlide/S07/background2.webp"
+    },
+    "section8": {
+      "dualImages": ["/public/ImgSlide/p4.webp", "/public/ImgSlide/p5.webp"]
+    },
+    "section9": {
+      "subtitle": "Gallery",
+      "title1": "Top Quality",
+      "title2": "Unique Vehicle",
+      "galleryImages": [
+        "/public/ImgSlide/S07/31.webp",
+        "/public/ImgSlide/S07/32.webp",
+        "/public/ImgSlide/S07/33.webp"
+      ]
+    }
+  },
+  "s09": {
+    "section1": {
+      "subtitle": "Design",
+      "title1": "Modern Aesthetics",
+      "title2": "Innovation and Style",
+      "video": "/public/ImgSlide/S09/S09,_Your_Soul_Knight_SOUEAST_Global_1080p,_h264,_youtube.mp4"
+    },
+    "section2": {
+      "features1": [
+        {
+          "title": "New Aesthetic Concept",
+          "description": "Futuristic styling for a modern aesthetic.",
+          "image": "/public/ImgSlide/S09/1.webp"
+        },
+        {
+          "title": "U-Shaped Radiator Grille",
+          "description": "Advanced LED technology for enhanced visibility.",
+          "image": "/public/ImgSlide/S09/2.webp"
+        },
+        {
+          "title": "Attractive Optics",
+          "description": "Bold and stylish wheels for superior performance.",
+          "image": "/public/ImgSlide/S09/3.webp"
+        },
+        {
+          "title": "Sony Stereo (8 Speakers)",
+          "description": "Expansive panoramic roof for an open feel.",
+          "image": "/public/ImgSlide/S09/4.webp"
+        },
+        {
+          "title": "Spacious Interior",
+          "description": "Welcoming lights for a premium experience.",
+          "image": "/public/ImgSlide/S09/5.webp"
+        }
+      ]
+    },
+    "section3": {
+      "subtitle": "Comfort",
+      "title1": "Redefined Comfort",
+      "title2": "Innovative Design",
+      "backgroundImage": "/public/ImgSlide/S09/background.webp"
+    },
+    "section4": {
+      "features2": [
+        {
+          "title": "Multifunctional Ergonomic Seat",
+          "description": "The main driver’s seat adjusts in 8 directions with electric lumbar support. Seat memory retains the user’s most comfortable position.",
+          "image": "/ImgSlide/10.jpg"
+        },
+        {
+          "title": "Boss Button and Ventilated Seat",
+          "description": "The passenger seat adjusts with a single button. Ventilation and heating functions provide high-level comfort.",
+          "image": "/ImgSlide/11.jpg"
+        },
+        {
+          "title": "CarPlay and Android Auto",
+          "description": "Compatible with iOS and Android systems. Connect your smartphone to the car’s infotainment system with a single button.",
+          "image": "/ImgSlide/12.jpg"
+        },
+        {
+          "title": "Easy-Open Electric Trunk",
+          "description": "The trunk opens automatically with a light foot movement. Hands-free control for maximum convenience.",
+          "image": "/ImgSlide/13.jpg"
+        }
+      ]
+    },
+    "section5": {
+      "features5": [
+        {
+          "title": "Multimedia Control Panel and Display",
+          "description": "A 15.6-inch panel screen and a 10.25-inch Full HD multimedia system display travel and entertainment information.",
+          "image": "/ImgSlide/S5 (1).webp"
+        },
+        {
+          "title": "Qualcomm Snapdragon 8155 Processor",
+          "description": "A smart car powered by the Snapdragon 8155 processor with a super core. Your phone can become part of the multimedia system. Fully compatible with iOS and Android.",
+          "image": "/ImgSlide/S5 (2).webp"
+        },
+        {
+          "title": "Electric Gear Shifting",
+          "description": "The driver can easily change gears.",
+          "image": "/ImgSlide/S5 (3).webp"
+        },
+        {
+          "title": "Wireless Charging",
+          "description": "Ventilated wireless charging for mobile devices.",
+          "image": "/ImgSlide/S5 (4).webp"
+        }
+      ]
+    },
+    "section6": {
+      "airPurifierTitle": "Air Purification System and CN95 Filters",
+      "airPurifierTitle2": "Dual-Zone Climate Control",
+      "airPurifierDescription": "The ventilation system filters harmful particles and purifies the air.",
+      "airPurifierDescription2": "Allows maintaining a comfortable cabin temperature for both the driver and passenger.",   
+      "airPurifierImage": "/public/ImgSlide/S09/31.webp",
+      "airPurifierImage2": "/public/ImgSlide/S09/32.webp"
+    },
+    "section7": {
+      "subtitle": "Performance",
+      "title1": "Advanced Technology",
+      "title2": "Experience the Future",
+      "performanceImage": "/public/ImgSlide/S09/background2.webp"
+    },
+    "section8": {
+      "dualImages": ["/public/ImgSlide/S09/41.webp", "/public/ImgSlide/S09/42.webp"]
+    },
+    "section9": {
+      "subtitle": "Gallery",
+      "title1": "Premium Quality",
+      "title2": "Distinctive Vehicle",
+      "galleryImages": [
+        "/public/ImgSlide/S09/51.webp",
+        "/public/ImgSlide/S09/52.webp",
+        "/public/ImgSlide/S09/53.webp"
+      ]
+    }
+  }
+}

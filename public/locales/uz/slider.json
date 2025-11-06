@@ -1,0 +1,24 @@
+{
+  "slider": {
+    "header": "BARCHA MODELLAR",
+    "discoverLink": "Barcha Modellar",
+    "cars": {
+      "S07": {
+        "slogan": "O'zingni erkin his et",
+        "colors": [
+          { "name": "Oq" },
+          { "name": "Kulrang" },
+          { "name": "Ko'k" }
+        ]
+      },
+      "S09": {
+        "slogan": "Yangi avlod sifati",
+        "colors": [
+          { "name": "Oq" },
+          { "name": "Kulrang" },
+          { "name": "Ko'k" }
+        ]
+      }
+    }
+  }
+}

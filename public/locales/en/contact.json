@@ -1,0 +1,16 @@
+{
+  "contactUs": {
+    "title": "Get in Touch",
+    "form": {
+      "nameLabel": "Your Name",
+      "phoneLabel": "Your Phone Number",
+      "messageLabel": "Your Message",
+      "namePlaceholder": "Enter your name",
+      "phonePlaceholder": "+998991234567",
+      "messagePlaceholder": "Type your message here...",
+      "submitButton": "Send Message"
+    },
+    "successMessage": "Your message has been sent! We'll get back to you soon.",
+    "invalidPhone": "Please enter a valid phone number. For example: +998991234567"
+  }
+}

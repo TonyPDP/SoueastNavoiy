@@ -1,0 +1,16 @@
+{
+  "contactUs": {
+    "title": "Biz bilan bog'laning",
+    "form": {
+      "nameLabel": "Ismingiz",
+      "phoneLabel": "Telefon raqamingiz",
+      "messageLabel": "Xabaringiz",
+      "namePlaceholder": "Ismingizni kiriting",
+      "phonePlaceholder": "+998991234567",
+      "messagePlaceholder": "Xabaringizni bu yerga yozing...",
+      "submitButton": "Yuborish"
+    },
+    "successMessage": "Xabaringiz yuborildi! Tez orada siz bilan bog'lanamiz.",
+    "invalidPhone": "Iltimos, to‘g‘ri telefon raqamini kiriting. Masalan: +998991234567"
+  }
+}

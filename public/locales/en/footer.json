@@ -1,0 +1,19 @@
+{
+  "footer": {
+    "contactTitle": "CONTACT",
+    "infoLine": "Soueast Information Line",
+    "globalSite": "Global Site",
+    "nav": {
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "settings": "Settings"
+    },
+    "social": {
+      "facebook": "Visit our Facebook page",
+      "instagram": "Visit our Instagram page",
+      "telegram": "Visit our Telegram channel",
+      "youtube": "Visit our YouTube channel"
+    },
+    "copyright": "© Copyright 2025 SOUEAST MOTOR. All rights reserved."
+  }
+}

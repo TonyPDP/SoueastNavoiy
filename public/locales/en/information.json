@@ -1,0 +1,118 @@
+{
+  "information": {
+    "panels": [
+      {
+        "header": "MAIN TECHNICAL SPECIFICATIONS",
+        "items": [
+          "Length x Width x Height (mm)",
+          "Wheelbase",
+          "Maximum Power (kW)",
+          "Maximum Torque (N·m)",
+          "Transmission Type",
+          "Brake Type",
+          "Parking Brake Type",
+          "Tire Specifications",
+          "Electronic Trunk"
+        ]
+      },
+      {
+        "header": "Interior",
+        "items": [
+          "Airbags",
+          "Smart Key",
+          "Keyless Entry/Start",
+          "Electronic Stability Program",
+          "Hill Descent Control",
+          "Anti-Rollover System",
+          "Leather Steering Wheel",
+          "Four-Way Adjustable Steering Wheel",
+          "Heated Steering Wheel",
+          "Front/Rear Radar",
+          "10.25” LCD Screen + 15.6” Central Control Screen",
+          "Welcome Effect Exterior Step Decoration (Front/Rear)",
+          "Illuminated Logo on Door Opening (Front/Rear)",
+          "Hydraulic Rod and Protective Cover for Hood"
+        ]
+      },
+      {
+        "header": "Comfort",
+        "items": [
+          "Seat Material (Front)",
+          "Premium Headrest Pillows",
+          "Electric Driver Seat Adjustment",
+          "Front Seat Heating System",
+          "Front Seat Ventilation",
+          "Adjustable Second-Row Backrest",
+          "Cooled Glove Box",
+          "CN95",
+          "PM2.5",
+          "Air Purification System with Anions",
+          "Electric Air Conditioner",
+          "Automatic Air Conditioner",
+          "Second-Row Charging Port"
+        ]
+      },
+      {
+        "header": "Multimedia System",
+        "items": [
+          "Carplay",
+          "Android Auto",
+          "Number of Speakers (Sony)",
+          "Interactive Voice Control System",
+          "Remote Control",
+          "Wireless Charging (50W)"
+        ]
+      },
+      {
+        "header": "Lighting System",
+        "items": [
+          "Matrix LED Headlights",
+          "Daytime Running Lights",
+          "U-Shaped Daytime Running Lights in Front Grille",
+          "Automatic Headlight Activation",
+          "Monochrome Lighting",
+          "LED Rear Lights",
+          "Dynamic Direction Indicator"
+        ]
+      },
+      {
+        "header": "Side Mirrors",
+        "items": [
+          "Automatic Window Closing Function",
+          "Heated Side Mirrors",
+          "Electric Side Mirror Adjustment",
+          "Two-Segment Side Mirrors"
+        ]
+      },
+      {
+        "header": "Safety Systems",
+        "items": [
+          "Blind Spot Monitoring System (BSD)",
+          "Lane Change Assist System (LCA)",
+          "Door Open Warning (DOW)",
+          "Rear Cross Traffic Alert (RCTA)",
+          "Rear Collision Warning Function (RCW)"
+        ]
+      },
+      {
+        "header": "Heating Systems",
+        "items": [
+          "Front Seat Heating System",
+          "Second-Row Seat Heating System",
+          "Steering Wheel Heating System",
+          "Front Windshield Heating System",
+          "Front Wiper Heating"
+        ]
+      }
+    ],
+    "models": {
+      "model1": "2.0T-7DCT (Premium)",
+      "model2": "1.6T-7DCT (Comfort)"
+    },
+    "features": {
+      "leather": "Leather",
+      "artificialLeather": "Artificial Leather",
+      "6way": "6-Way"
+    }
+  }
+}

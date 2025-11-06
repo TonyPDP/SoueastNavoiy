@@ -1,0 +1,26 @@
+{
+  "navbar": {
+    "menu": "Menyu",
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "explore": "Kashf qiling",
+    "items": {
+      "s09": {
+        "details": "S09 modelining ilg'or xususiyatlarini kashf qiling."
+      },
+      "s07": {
+        "details": "S07 ning innovatsion dizaynini kashf qiling."
+      },
+      "home": {
+        "details": "SOUEAST bosh sahifasiga xush kelibsiz. Avtomobillarimiz va takliflarimizni kashf qiling."
+      },
+      "about": {
+        "details": "SOUEAST Motors, bizning tasavvurimiz va elektr yo'limiz haqida bilib oling."
+      },
+      "contact": {
+        "details": "Qo'llab-quvvatlash, xizmat yoki hamkorlik uchun jamoamiz bilan bog'laning."
+      }
+    }
+  }
+}

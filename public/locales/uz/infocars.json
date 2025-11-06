@@ -1,0 +1,69 @@
+{
+  "infocars": {
+    "carNotFound": "Avtomobil topilmadi",
+    "specifications": "Texnik xususiyatlar",
+    "features": "Xususiyatlar",
+    "scheduleTestDrive": "Sinov haydashini rejalashtirish",
+    "mainImageAlt": "Asosiy avtomobil tasviri",
+    "thumbnailAlt": "Miniatyura {index}",
+    "configureS07": "S07 ni sozlang",
+    "configureS09": "S09 ni sozlang",
+    "topViewAlt": "Avtomobilning yuqori ko‘rinishi",
+    "sideViewAlt": "Avtomobilning yon ko‘rinishi",
+    "colors": {
+      "s07": {
+        "ashBrown": "Kulkul jigarrang",
+        "black": "Qora",
+        "white": "Oq",
+        "blue": "Moviy",
+        "skyBlue": "Osmon ko‘k",
+        "pearlWhite": "Marvarid oq",
+        "phantomGray": "Kulrang"
+      },
+      "s09": {
+        "moonGray": "Oy kulrang",
+        "mountainGreen": "Tog‘ yashil",
+        "oceanBlue": "Okean ko‘k",
+        "phantomGray": "Xayoliy kulrang",
+        "starlitBlack": "Yulduzli qora",
+        "white": "Oq"
+      }
+    },
+    "cars": {
+      "s07": {
+        "name": "SOUEAST S07",
+        "specifications": [
+          "O‘lchamlar: 4724 mm x 1900 mm x 1720 mm",
+          "G‘ildirak bazasi: 2720 mm",
+          "Dvigatel: 1.6 l turbo benzin (190 ot kuchi, 275 N·m)",
+          "Uzatma qutisi: 7 pog‘onali DCT (old g‘ildirakli) yoki avtomatik (to‘liq g‘ildirakli)",
+          "Yoqilg‘i sarfi: 8.1 l/100 km"
+        ],
+        "features": [
+          "12 dyuymli sensorli ekran, ovozli boshqaruv bilan (ingliz, rus va boshqalar)",
+          "Sony 8 ta dinamikli audio tizim",
+          "Uch zonali iqlim nazorati, ikkinchi qator uchun sensorli ekran bilan",
+          "10 ta aqlli haydovchiga yordam beruvchi tizimlar",
+          "Belni qo‘llab-quvvatlovchi sun’iy teri o‘rindiqlar"
+        ]
+      },
+      "s09": {
+        "name": "SOUEAST S09",
+        "specifications": [
+          "O‘lchamlar: 4858 mm x 1925 mm x 1780 mm (old g‘ildirakli) yoki 1795 mm (to‘liq g‘ildirakli)",
+          "G‘ildirak bazasi: 2850 mm",
+          "Dvigatel: 1.6 l TGDi (275 N·m) yoki 2.0 l TGDi (197 ot kuchi, 375 N·m)",
+          "Uzatma qutisi: 7 pog‘onali DCT (old g‘ildirakli) yoki avtomatik (to‘liq g‘ildirakli)",
+          "Yoqilg‘i sarfi: 8.1 l/100 km"
+        ],
+        "features": [
+          "Qualcomm Snapdragon 8155 axborot-ko‘ngilochar chipi",
+          "8 tomonlama sozlanadigan premium teri o‘rindiqlar",
+          "10 dan ortiq aqlli haydovchiga yordam beruvchi tizimlar",
+          "Xavfsizlik uchun oltita havo yostiqchasi",
+          "To‘liq kenglikdagi LED orqa chiroqlar paneli"
+        ]
+      }
+    }
+  }
+}

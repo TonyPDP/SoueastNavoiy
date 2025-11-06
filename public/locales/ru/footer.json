@@ -1,0 +1,19 @@
+{
+  "footer": {
+    "contactTitle": "КОНТАКТЫ",
+    "infoLine": "Информационная линия Soueast",
+    "globalSite": "Глобальный сайт",
+    "nav": {
+      "contact": "Контакты",
+      "privacy": "Политика конфиденциальности",
+      "settings": "Настройки"
+    },
+    "social": {
+      "facebook": "Перейти на нашу страницу в Facebook",
+      "instagram": "Перейти на наш Instagram",
+      "telegram": "Перейти на наш канал в Telegram",
+      "youtube": "Перейти на наш канал в YouTube"
+    },
+    "copyright": "© Авторские права 2025 SOUEAST MOTOR. Все права защищены."
+  }
+}

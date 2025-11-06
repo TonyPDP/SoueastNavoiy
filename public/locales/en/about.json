@@ -1,0 +1,62 @@
+{
+  "aboutUs": {
+    "titlePart1": "Souest",
+    "titlePart2": "Cars",
+    "subtitle": "Discover our journey, heritage, and future plans. We passionately develop innovation and quality for drivers.",
+    "cta": "Contact Us",
+    "scrollPrompt": "Scroll Down",
+    
+    "stats": {
+      "stat1": {
+        "value": "28+",
+        "label": "Years of Experience"
+      },
+      "stat2": {
+        "value": "500K+",
+        "label": "Satisfied Customers"
+      },
+      "stat3": {
+        "value": "50+",
+        "label": "Countries"
+      },
+      "stat4": {
+        "value": "100+",
+        "label": "Awards"
+      }
+    },
+    
+    "section1": {
+      "subtitle": "About Us",
+      "title": "Souest - Automotive Industry Leader",
+      "text": "Soueast is a Chinese automobile manufacturer established in 1995. Originally founded as a joint venture between China Motor Corporation and Fujian Motor Industry Group. Mitsubishi Motors joined the partnership in 2006. In 2021, Mitsubishi withdrew from Soueast, which was subsequently acquired by Chery and now produces vehicles under the Jetour brand."
+    },
+    
+    "section2": {
+      "subtitle": "History",
+      "title": "Our Innovative Journey",
+      "text": "Founded in 1995. Partnership with Mitsubishi Motors began in 2006. Mitsubishi withdrew in 2021. Acquired by Chery in 2024 and now produces vehicles under the Jetour brand.",
+      "listItem1": "1995 - Company founded",
+      "listItem2": "2006 - Partnership with Mitsubishi",
+      "listItem3": "2024 - New era: Jetour brand"
+    },
+    
+    "section3": {
+      "subtitle": "Products",
+      "title": "Our Vehicle Lineup",
+      "text": "The company has developed a range of models including SUVs and sedans. For example, Soueast offers S07 and S09 model vehicles.",
+      "feature1": "Modern design",
+      "feature2": "Comfortable interior",
+      "feature3": "Advanced technologies",
+      "feature4": "Fuel efficiency"
+    },
+    
+    "section4": {
+      "subtitle": "Future",
+      "title": "New Chapter",
+      "text": "Our vehicles became the center of attention at the exhibition! The new brand in Uzbekistan market — SOUEAST. Elegant design and cutting-edge technologies embodied in all our vehicles. From the first day of the exhibition, every detail is about 'Ease Your Life'.",
+      "contactTitle": "Get In Touch"
+    },
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "s07": {
+    "section1": {
+      "subtitle": "Chiroy",
+      "title1": "Tuyg'u",
+      "title2": "Sifat va Komfort",
+      "video": "/public/S07 CG SALING POINT 4K 30S.mp4"
+    },
+    "section2": {
+      "features1": [
+        {
+          "title": "Kristalli Radiator panjara",
+          "description": "Bold styling that breaks traditional car design boundaries.",
+          "image": "/ImgSlide/1.webp"
+        },
+        {
+          "title": "LED old va orqa yoritish chiziqlari",
+          "description": "Signature grille combining function with flair.",
+          "image": "/ImgSlide/2.webp"
+        },
+        {
+          "title": "20-dyuymli g'ildirak disklari",
+          "description": "Programmable front lights, casting beams of aspirations.",
+          "image": "/ImgSlide/3.webp"
+        },
+        {
+          "title": "Panoramali tom",
+          "description": "Let the sky in with a one-touch panoramic experience.",
+          "image": "/ImgSlide/4.webp"
+        },
+        {
+          "title": "Poroqlar va salomlashish yoritgichlari",
+          "description": "Spacious interior for comfort and excitement.",
+          "image": "/ImgSlide/5.webp"
+        }
+      ]
+    },
+    "section3": {
+      "subtitle": "Sifat",
+      "title1": "Sifat",
+      "title2": "Qulaylikni qayta belgilaydi",
+      "backgroundImage": "/public/ImgSlide/S07/background.webp"
+    },
+    "section4": {
+      "features2": [
+        {
+          "title": "Keng salon",
+          "description": "2720 mm g'ildirak bazasi bilan avtomobil, kattaligi bilan ta'sir qiladigan va haydashdan ajoyib zavq baxsh etadigan.",
+          "image": "/public/ImgSlide/S07/1.webp"
+        },
+        {
+          "title": "12,3 dyuymli markaziy boshqaruv paneli",
+          "description": "Haydovchiga mo'ljallangan yuqori texnologiyali boshqaruv paneli, takomillashtirilgan ko'rinuvchanlik va ilg'or texnologiyalar bilan.",
+          "image": "/public/ImgSlide/S07/2.webp"
+        },
+        {
+          "title": "Qulay yoritish",
+          "description": "Ichki yoritishning 6 xil rangli tizimi salon ichida noyob muhit yaratadi. Yuqori konsol yoritilishi saqlash joyini yoritadi, ikkinchi qatorning pastki yoritilishi esa avtomobilga kirish va o'tirish va tushishni osonlashtiradi.",
+          "image": "/public/ImgSlide/S07/3.webp"
+        },
+        {
+          "title": "Ko‘p funktsiyali o‘rindiq",
+          "description": "Detallardan ilhomlangan harakatlilik. Haydovchining o'rindiqlarini maksimal qulaylik uchun 6 pog'onali sozlama.",
+          "image": "/public/ImgSlide/S07/4.webp"
+        }
+      ]
+    },
+    "section5": {
+      "features5": [
+        {
+          "title": "Ikki zonali ovozli boshqaruv",
+          "description": "S07 har bir so'zingizni tushunadi. Ingliz, arab, ispan, rus, portugal va boshqa tillarni qo'llab-quvvatlash, haydovchi va yo'lovchi zonalarida buyruqlarni aniq tanib olish imkonini beradi.",
+          "image": "/ImgSlide/S5 (1).webp"
+        },
+        {
+          "title": "8 ta Sony dinamikasi, ajoyib ovoz bilan",
+          "description": "8 ta yuqori sifatli Sony dinamikasi bilan jihozlangan avtomobil haqiqiy uy kinoteatriga aylanadi.",
+          "image": "/ImgSlide/S5 (2).webp"
+        },
+        {
+          "title": "3 zonali iqlim nazorati",
+          "description": "Har bir o‘rindiqni qulay haroratga sozlash imkoniyati. Haydovchi va yo‘lovchi uchun standart iqlim boshqaruvi tugmalari bilan birga, orqa o‘rindiqlardagi iqlimni sozlash uchun sensorli ekran mavjud.",
+          "image": "/ImgSlide/S5 (3).webp"
+        },
+        {
+          "title": "Simsiz quvvatlash",
+          "description": "Telefoningizni ortiqcha simlarsiz tez zaryadlash, ko'proq qulaylik uchun.",
+          "image": "/ImgSlide/S5 (4).webp"
+        }
+      ]
+    },
+    "section6": {
+      "airPurifierTitle": "Kristalli uzatmalar kutisi dastagi",
+      "airPurifierTitle2": "Premium klass interyer",
+      "airPurifierDescription": "Uzatmalarni almashtirish tutqichi, olmos kabi porlab, shahar uslubini aks ettiradi",
+      "airPurifierDescription2": "Qo'lga yoqimli bo'lgan materiallar, birinchi va ikkinchi qatorlardagi uzaytirilgan o'rindiqlar hamda nafis tikuvlar yaxshi didni ifodalaydi. Ichki bezakning 85% ini tashkil etuvchi yumshoq qoplamalar har bir teginishda sizni kutib oladi",
+      "airPurifierImage": "/public/ImgSlide/S07/21.webp",
+      "airPurifierImage2": "/public/ImgSlide/S07/22.webp"
+    },
+    "section7": {
+      "subtitle": "Texnologik xususiyat",
+      "title1": "Performans",
+      "title2": "Orzuni biz bilan his qiling",
+      "performanceImage": "/public/ImgSlide/S07/background2.webp"
+    },
+    "section8": {
+      "dualImages": ["/public/ImgSlide/p4.webp", "/public/ImgSlide/p5.webp"]
+    },
+    "section9": {
+      "subtitle": "Galereya",
+      "title": "Stuart Littlefield",
+      "title1": "Eng yuqori sifatga ega",
+      "title2": "Noyob avtomobil",
+      "galleryImages": [
+        "/public/ImgSlide/S07/31.webp",
+        "/public/ImgSlide/S07/32.webp",
+        "/public/ImgSlide/S07/33.webp"
+      ]
+    }
+  },
+  "s09": {
+    "section1": {
+      "subtitle": "Dizayn",
+      "title1": "Zamonaviy estetika",
+      "title2": "Innovatsiya va uslub",
+      "video": "/public/ImgSlide/S09/S09,_Your_Soul_Knight_SOUEAST_Global_1080p,_h264,_youtube.mp4"
+    },
+    "section2": {
+      "features1": [
+        {
+          "title": "Yangi estetika kontseptsiyasi",
+          "description": "Futuristik dizayn zamonaviy estetika uchun.",
+          "image": "/public/ImgSlide/S09/1.webp"
+        },
+        {
+          "title": "U shaklidagi radiator panjarasi",
+          "description": "Kengaytirilgan ko'rinish uchun ilg'or LED texnologiyasi.",
+          "image": "/public/ImgSlide/S09/2.webp"
+        },
+        {
+          "title": "Jozibali optika",
+          "description": "Yuqori samaradorlik uchun dadil va zamonaviy g'ildiraklar.",
+          "image": "/public/ImgSlide/S09/3.webp"
+        },
+        {
+          "title": "Sony stereo (8 dinamik)",
+          "description": "Erkinlik hissi uchun kengaytirilgan panoramali tom.",
+          "image": "/public/ImgSlide/S09/4.webp"
+        },
+        {
+          "title": "Keng ichki salon",
+          "description": "Premium tajriba uchun xush kelibsiz yoritgichlar.",
+          "image": "/public/ImgSlide/S09/5.webp"
+        }
+      ]
+    },
+    "section3": {
+      "subtitle": "Qulaylik",
+      "title1": "Qayta belgilangan qulaylik",
+      "title2": "Innovatsion dizayn",
+      "backgroundImage": "/public/ImgSlide/S09/background.webp"
+    },
+    "section4": {
+      "features2": [
+        {
+          "title": "Ko'p funksiyali ergonomik o'rindiq",
+          "description": "Asosiy haydovchi o'rindig'i 8 yo'nalishda sozlanadi va elektr bel suyagi yordami mavjud. O'rindiq xotirasi foydalanuvchining eng qulay holatini eslab qoladi.",
+          "image": "/ImgSlide/10.jpg"
+        },
+        {
+          "title": "Boss tugmasi va ventilyatsiyali o'rindiq",
+          "description": "Yo'lovchi o'rindig'i bir tugma bilan sozlanadi. Ventilyatsiya va isitish funksiyalari yuqori darajadagi qulaylikni ta'minlaydi.",
+          "image": "/ImgSlide/11.jpg"
+        },
+        {
+          "title": "CarPlay va Android Auto",
+          "description": "iOS va Android tizimlari bilan mos. Bitta tugma orqali smartfoningizni osongina avtomobilning infotainment tizimiga ulashing.",
+          "image": "/ImgSlide/12.jpg"
+        },
+        {
+          "title": "Oson ochiladigan elektr bagaj eshigi",
+          "description": "Yengil oyoq harakati bilan bagaj avtomatik tarzda ochiladi. Qo'lsiz boshqaruv — maksimal qulaylik uchun.",
+          "image": "/ImgSlide/13.jpg"
+        }
+      ]
+    },
+    "section5": {
+      "features5": [
+        {
+          "title": "Multimediya boshqaruv paneli va displey",
+          "description": "15,6 dyuymli panel ekrani va Full HD multimedia tizimli 10,25 dyuymli markaziy ekran sayohat va ko'ngilochar ma'lumotlarni ko'rsatadi.",
+          "image": "/ImgSlide/S5 (1).webp"
+        },
+        {
+          "title": "Qualcomm Snapdragon 8155 protsessori",
+          "description": "Aqlli avtomobil, Snapdragon 8155 protsessori yordamida super yadro bilan qo'llab-quvvatlanadi. Sizning telefoningiz multimedia tizimiga aylanishi mumkin. Avtomobil iOS va Android tizimlari bilan to'liq mos keladi.",
+          "image": "/ImgSlide/S5 (2).webp"
+        },
+        {
+          "title": "Elektr vitesni almashtirish",
+          "description": "Haydovchi viteslarni juda oson o'zgartirishi mumkin.",
+          "image": "/ImgSlide/S5 (3).webp"
+        },
+        {
+          "title": "Simsiz quvvatlash",
+          "description": "Mobil qurilma uchun shamollatiladigan simsiz quvvatlash.",
+          "image": "/ImgSlide/S5 (4).webp"
+        }
+      ]
+    },
+    "section6": {
+      "airPurifierTitle": "Havo tozalash tizimi va CN95 filtrlar",
+      "airPurifierTitle2": "Ikki zonali iqlim nazorati",
+      "airPurifierDescription": "Ventilyatsiya tizimi zararli zarrachalardan filtratsiya qilish va havoni tozalashni ta'minlaydi.",
+      "airPurifierDescription2": "Haydovchi va yo'lovchi uchun salonda qulay haroratni saqlashga imkon beradi",
+      "airPurifierImage": "/public/ImgSlide/S09/31.webp",
+      "airPurifierImage2": "/public/ImgSlide/S09/32.webp"
+    },
+    "section7": {
+      "subtitle": "Texnologik xususiyat",
+      "title1": "Performans",
+      "title2": "Kelajakni his qiling",
+      "performanceImage": "/public/ImgSlide/S09/background2.webp"
+    },
+    "section8": {
+      "dualImages": ["/public/ImgSlide/S09/41.webp", "/public/ImgSlide/S09/42.webp"]
+    },
+    "section9": {
+      "subtitle": "Galereya",
+      "title1": "Yuqori sifat",
+      "title2": "Noyob avtomobil",
+      "galleryImages": [
+        "/public/ImgSlide/S09/51.webp",
+        "/public/ImgSlide/S09/52.webp",
+        "/public/ImgSlide/S09/53.webp"
+      ]
+    }
+  }
+}

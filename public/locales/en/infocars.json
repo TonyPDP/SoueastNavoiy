@@ -1,0 +1,69 @@
+{
+  "infocars": {
+    "carNotFound": "Car not found",
+    "specifications": "Specifications",
+    "features": "Features",
+    "scheduleTestDrive": "Schedule Test Drive",
+    "mainImageAlt": "Main car display",
+    "thumbnailAlt": "Thumbnail {index}",
+    "configureS07": "Configure Your S07",
+    "configureS09": "Configure Your S09",
+    "topViewAlt": "Top view of the car",
+    "sideViewAlt": "Side view of the car",
+    "colors": {
+      "s07": {
+        "ashBrown": "Ash Brown",
+        "black": "Black",
+        "white": "Snow White",
+        "blue": "Ocean Blue",
+        "skyBlue": "Sky Blue",
+        "pearlWhite": "Pearl White",
+        "phantomGray": "Phantom Gray"
+      },
+      "s09": {
+        "moonGray": "Moon Gray",
+        "mountainGreen": "Mountain Green",
+        "oceanBlue": "Ocean Blue",
+        "phantomGray": "Phantom Gray",
+        "starlitBlack": "Starlit Black",
+        "white": "Snow White"
+      }
+    },
+    "cars": {
+      "s07": {
+        "name": "SOUEAST S07",
+        "specifications": [
+          "Dimensions: 4724 mm x 1900 mm x 1720 mm",
+          "Wheelbase: 2720 mm",
+          "Engine: 1.6L Turbo Petrol (190 hp, 275 Nm)",
+          "Transmission: 7-speed DCT (FWD) or Automatic (AWD)",
+          "Fuel Consumption: 8.1 L/100 km"
+        ],
+        "features": [
+          "12-inch Touchscreen with Voice Recognition (English, Russian, etc.)",
+          "Sony 8-Speaker Audio System",
+          "Three-Zone Climate Control with Second-Row Touchscreen",
+          "10 Intelligent Driver Assistance Systems",
+          "Synthetic Leather Seats with Lumbar Support"
+        ]
+      },
+      "s09": {
+        "name": "SOUEAST S09",
+        "specifications": [
+          "Dimensions: 4858 mm x 1925 mm x 1780 mm (FWD) or 1795 mm (AWD)",
+          "Wheelbase: 2850 mm",
+          "Engine: 1.6L TGDi (275 Nm) or 2.0L TGDi (197 hp, 375 Nm)",
+          "Transmission: 7-speed DCT (FWD) or Automatic (AWD)",
+          "Fuel Consumption: 8.1 L/100 km"
+        ],
+        "features": [
+          "Qualcomm Snapdragon 8155 Infotainment Chip",
+          "Premium Leather Seats with 8-Way Adjustment",
+          "Over 10 Intelligent Driving Assistance Systems",
+          "Six Airbags for Enhanced Safety",
+          "Full-Width LED Rear Light Strip"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "navbar": {
+    "menu": "Menu",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "explore": "Explore",
+    "items": {
+      "s09": {
+        "details": "Explore the advanced features of the S09 model."
+      },
+      "s07": {
+        "details": "Discover the innovative design of the S07."
+      },
+      "home": {
+        "details": "Welcome to the SOUEAST homepage. Start exploring our vehicles and offers."
+      },
+      "about": {
+        "details": "Learn about SOUEAST Motors, our vision, and our electric journey."
+      },
+      "contact": {
+        "details": "Get in touch with our team for support, service, or partnerships."
+      }
+    }
+  }
+}
